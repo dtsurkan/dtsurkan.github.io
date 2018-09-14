@@ -3,7 +3,7 @@
         "apps": [],
         "details": [{
             "appID": "XAVH5H9TPA.com.kenguapp.kengu",
-            "paths": ["/*"]
+            "paths": ["/"]
         }]
     }
 }
